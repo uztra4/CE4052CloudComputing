@@ -1,4 +1,4 @@
-#Assignment 1
+# Assignment 01
 
 This assignment aims to explore congestion control AIMD.
 
