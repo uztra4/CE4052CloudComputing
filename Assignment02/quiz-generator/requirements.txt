@@ -1,0 +1,10 @@
+flask==3.0.0
+gunicorn==21.2.0
+google-cloud-aiplatform==1.36.4
+langchain
+tiktoken
+langchain-community
+pandas
+pypdf
+PyPDF2
+faiss-cpu
